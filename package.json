@@ -1,0 +1,22 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-wardle/iss_spotter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-wardle/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/m-wardle/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
