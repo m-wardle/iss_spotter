@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/m-wardle/iss_spotter#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
   }
 }
